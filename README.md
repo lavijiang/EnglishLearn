@@ -24,4 +24,3 @@
 [CNN](https://www.bilibili.com/video/BV1jQ4y1N7kZ?p=1)美式
 
 # 口语
-暂时挖坑
