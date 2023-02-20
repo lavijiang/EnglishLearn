@@ -1,0 +1,12 @@
+# Habits
+## Daily  
+1hour reading  
+15min listening  
+30min talking  
+1hour codeforces  
+## Weekend
+1hour reading  
+15min listening  
+30min talking  
+3hour codeforces  
+4hour walking  
