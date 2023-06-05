@@ -5,8 +5,9 @@
 学习需要好的学习方法和坚持不断的努力，加油
 
 # 听力
-觉得b站的up主的这个[听力训练方法](https://www.bilibili.com/video/BV1i3411y7h1?spm_id_from=333.999.0.0)非常科学  
+找托福听力有原文的，听一两句话写下来，听完对比原文，不能有错的词。50h见效。
 
+觉得b站的up主的这个[听力训练方法](https://www.bilibili.com/video/BV1i3411y7h1?spm_id_from=333.999.0.0)非常科学  
 - 方法：精听+泛听
 - 材料：精听：BBC/CNN/VOA均可以  泛听：难度适中的都可以
 
@@ -24,3 +25,4 @@
 [CNN](https://www.bilibili.com/video/BV1jQ4y1N7kZ?p=1)美式
 
 # 口语
+复述。听新闻，听一段，自己复述。
