@@ -6,4 +6,10 @@ https://www.bilibili.com/video/BV1LW411v7Z6?p=2&vd_source=87b93c659981a4d1c5bac4
 http://pc.51beat.cn/listen/conversation?id=NjIrMTY2ODc4ODgyNQ==
 
 # 阶段1
-![](tpo1~5.jpg)
+![](phase1.jpg)
+
+# 阶段2
+![](phase2.png)
+
+# 阶段3
+![](phase3.png)
